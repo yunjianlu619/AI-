@@ -18,3 +18,23 @@ Python入门练习项目｜漫剧AI绘图Prompt生成器
 ## ▶ 运行方法
 1. VS Code打开 day7.py，安装Code Runner插件
 2. 运行代码，控制台自动输出13组分镜prompt
+
+## Week2 学习复盘（Day8~Day14）
+学习内容：异常捕获、pip第三方库、文件读写、requests GET/POST、json解析
+综合脚本功能：
+1. 读取本地剧本txt分镜
+2. 自动拼接漫剧画风提示词prompt
+3. POST请求调用AI绘图API，连通测试
+4. 捕获文件、网络、JSON解析异常
+5. 输出全部记录保存到文本
+
+文件清单：
+- day8.py  异常捕获练习
+- day9.py  pip模块练习
+- day10.py 文件读写
+- day11.py requests GET
+- day12.py requests POST
+- day13.py json解析返回
+- day14.py 本周综合复盘脚本
+- script.txt 剧本源文件
+- week2_result.txt 输出结果
